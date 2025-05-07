@@ -13,7 +13,7 @@ This project was developed as part of the **"100 Days of Code: The Complete Pyth
 ## Demo
 
 ![img.png](img.png)
-*(Optional: Add a screenshot of your game and save it as `screenshot.png` in your repo)*
+
 
 ## Technologies Used
 
